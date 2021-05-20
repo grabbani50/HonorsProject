@@ -1,0 +1,20 @@
+1,American University Emerging global leader Scholarship,25000,14/06/2021,MBA,8.90,www.aue.com/scholarships
+2,ICSP Scholarship at University of Oregon,30000,24/07/2021,UnderGraduate,8.00,www.icsp.com/scholarships
+3,Clark Global Scholarship Program,25000,14/06/2021,MBA,8.90,www.cg.com/scholarships
+4,United world colleges international youth scholarships,12500,14/06/2021,MBA,8.90,www.uw.com/scholarships
+5,PEO International Peace Scholarship For Women,1390,14/06/2021,PostGraduate,8.90,www.peo.com/scholarships
+6,Obama Foundation Scholars’ Program,34222,14/06/2021,PostGraduate,8.90,www.ofs.com/scholarships
+7,Civil Society Leadership Award,1890,14/06/2021,UnderGrdauate,8.90,www.csl.com/scholarships
+8,Fully Funded Rotary Peace Fellowships,1900,24/06/2021,PostGraduate,8.90,www.ffrp.com/scholarships
+9,Hubert Humphrey Fellowships,34421,14/06/2021,PostGraduate,8.90,www.hhf.com/scholarships
+10,Fully-Funded Rotary Peace Fellowships,14224,14/06/2021,MBA,8.90,www.ddrp.com/scholarships
+11,Gorge Bush Foundation Scholarship,22323,01/06/2021,UnderGrdauate,8.90,www.gbf.com/scholarships
+12,Fulbright Foreign Student Program,43232,14/06/2021,PostGraduate,8.90,www.ffs.com/scholarships
+13,Illinois Wesleyan University Scholarships,43432,14/06/2021,UnderGrdauate,8.90,www.iwu.com/scholarships
+14,American University Emerging Global Leader Scholarship,12442,14/06/2021,MBA,6.90,www.aue.com/scholarships
+15,ICSP Scholarships at University of Oregon,23444,32/06/2021,MBA,8.90,www.icsp.com/scholarships
+16,Fairleigh Dickinson Scholarships,32313,11/06/2021,MBA,8.90,www.dds.com/scholarships
+17,Surfshark Privacy and Security Scholarship,24222,14/06/2021,MBA,8.90,www.spss.com/scholarships
+18,David P. Shapiro Autism Scholarship,32244,19/08/2021,PostGraduate,8.90,www.dpsus.com/scholarships
+19,Wesleyan Freeman Scholarship,33424,19/09/2021,MBA,8.90,www.wfs.com/scholarships
+20,AAUW International Fellowships,32424,15/08/2021,UnderGrdauate,8.90,www.aavw.com/scholarships
